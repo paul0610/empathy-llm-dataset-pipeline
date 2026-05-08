@@ -485,8 +485,7 @@ Este proyecto está licenciado bajo la **MIT License**. Ver el archivo `LICENSE`
 - **Emoji Sentiment Ranking** por el dataset de sentimientos de emojis
 - **OpenAI** por la API de GPT-4.1-mini
 - **Google** por la API de Gemini 1.5 Pro
-- **Universidad Internacional de Valencia (VIU)** por el apoyo académico
-- **Dra. [Nombre de la psicóloga]** por la validación clínica del sistema
+- **Universidad Internacional de Valencia (VIU)** por el apoyo.
 
 ---
 
